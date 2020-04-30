@@ -1,11 +1,7 @@
-# helm-kubernetes Docker hub image
-
-[![](https://images.microbadger.com/badges/image/dtzar/helm-kubectl.svg)](https://microbadger.com/images/dtzar/helm-kubectl "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/dtzar/helm-kubectl.svg)](https://microbadger.com/images/dtzar/helm-kubectl "Get your own version badge on microbadger.com")
-[![Build Status](https://travis-ci.org/dtzar/helm-kubectl.svg?branch=master)](https://travis-ci.org/dtzar/helm-kubectl)
-[![Docker Stars](https://img.shields.io/docker/stars/dtzar/helm-kubectl.svg?style=flat)](https://hub.docker.com/r/dtzar/helm-kubectl/)
-[![Docker Automated build](https://img.shields.io/docker/automated/dtzar/helm-kubectl.svg?style=flat)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/dtzar/helm-kubectl.svg)]()
+# helm-kubernetes-yq Docker hub image
+[![Docker Stars](https://img.shields.io/docker/stars/tnocs/helm-kubectl-yq.svg?style=flat)](https://hub.docker.com/r/dtzar/helm-kubectl/)
+[![Docker Automated build](https://img.shields.io/docker/automated/tnocs/helm-kubectl-yq.svg?style=flat)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/tnocs/helm-kubectl-yq.svg)]()
 
 Supported tags and release links
 
