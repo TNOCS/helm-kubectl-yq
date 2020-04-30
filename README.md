@@ -1,7 +1,7 @@
 # helm-kubernetes-yq Docker hub image
-[![Docker Stars](https://img.shields.io/docker/stars/tnocs/helm-kubectl-yq.svg?style=flat)](https://hub.docker.com/r/dtzar/helm-kubectl/)
-[![Docker Automated build](https://img.shields.io/docker/automated/tnocs/helm-kubectl-yq.svg?style=flat)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/tnocs/helm-kubectl-yq.svg)]()
+[![Docker Stars](https://img.shields.io/docker/stars/rinzeb/helm-kubectl-yq.svg?style=flat)](https://hub.docker.com/r/dtzar/helm-kubectl/)
+[![Docker Automated build](https://img.shields.io/docker/automated/rinzeb/helm-kubectl-yq.svg?style=flat)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/rinzeb/helm-kubectl-yq.svg)]()
 
 Supported tags and release links
 
